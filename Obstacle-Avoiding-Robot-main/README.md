@@ -68,12 +68,12 @@ The project's configuration involves defining the pin assignments for ultrasonic
 
 ## Acknowledgments
 
-We would like to acknowledge the following resources for their valuable support and inspiration during the development of this project:
+I would like to acknowledge the following resources for their valuable support and inspiration during the development of this project:
 
 - **[Arduino IDE](https://www.arduino.cc/en/software)**:  An open-source integrated development environment (IDE) used for programming Arduino boards.
 
 ## Contributing
 
-Contributions to this project are welcome. If you have any ideas, suggestions, or improvements, please submit a pull request or open an issue in this repository. We appreciate your feedback and support.I saw that normal GiThubs had a read me file, so I made a fancy one myself. 
+Contributions to this project are welcome. If you have any ideas, suggestions, or improvements, please submit a pull request or open an issue in this repository. I saw that normal GitHubs had a read me file, so I made a fancy one myself. 
 
 
